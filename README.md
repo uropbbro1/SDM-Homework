@@ -1,5 +1,5 @@
 # SDM-Homework
-task1 completed
+Task1 completed.
 During this exercise, I gained practical experience with the fundamental Git and GitHub workflow, solidifying my knowledge of basic Git concepts. The process of creating a local repository, pushing it to a remote repository, and creating branches to develop different features provided a very clear view on how these tools are used in real-world collaboration projects. The use of meaningful commit messages is also a key area that I understand to be important for the proper tracking of work done.
 The branch-based workflow introduced me to how features should be developed separately and then merged through pull requests, a key concept in collaborative development which helps maintain stability and order. Creating a pull request on GitHub and then merging it taught me how to use pull requests as the primary channel to review changes before incorporating them into the main branch.
 Learning how to ignore specific files using .gitignore was critical. Keeping secret keys out of the shared repository by using a .env file and then ignoring it with the .gitignore was a key concept to make sure code is developed securely. This reinforces the importance of keeping credentials secret and making sure sensitive files are not committed to version control.
